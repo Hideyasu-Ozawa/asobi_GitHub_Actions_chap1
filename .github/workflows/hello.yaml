@@ -2,7 +2,7 @@ name: Hello, World!
 on: 
 #   push
   schedule:
-    - cron: '10 10 10 3 *'
+    - cron: '15 10 10 3 *'
 
 jobs:
   build:
